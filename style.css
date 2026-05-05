@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6, p, a {
     flex-direction: column;
     gap: 4px;
     overflow: scroll;
-    max-height: 700px;
+    max-height: 650px;
 }
 
 .container2::-webkit-scrollbar {
@@ -148,9 +148,6 @@ footer {
     left: 0;
 }
 
-footer > p {
-    width: ;
-}
 
 .footer-link {
     color: #d499ff;
