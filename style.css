@@ -137,13 +137,12 @@ a {
 footer {
     position: fixed;
     bottom: 0;
-    margin-bottom: 64px;
+    margin-bottom: 72px;
     display: flex;
     justify-content: center;
     align-items: center;
     color: rgba(255, 255, 255, 0.48);
     font-size: 14px;
-    padding: 8px;
     width: 100vw;
     right: 0;
     left: 0;
