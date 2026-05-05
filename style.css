@@ -52,7 +52,7 @@ summary {
     border-radius: 12px;
     display: flex;
     user-select: none;
-    transition: all cubic-bezier(0.165, 0.84, 0.44, 1) 1s;
+    transition: all 20s cubic-bezier(0.165, 0.84, 0.44, 1);
     font-weight: 500;
 }
 
@@ -72,7 +72,7 @@ submenu::-webkit-details-marker {
 }
 
 ::details-content {
-    transition: height 0.2s cubic-bezier(0, 0, 0.2, 1), content-visibility 0.2s cubic-bezier(0, 0, 0.2, 1) allow-discrete;
+    transition: height 0.4s cubic-bezier(0.165, 0.84, 0.44, 1), content-visibility 0.4s cubic-bezier(0.165, 0.84, 0.44, 1) allow-discrete;
     height: 0;
     overflow: clip;
 }
