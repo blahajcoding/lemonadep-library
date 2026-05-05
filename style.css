@@ -137,7 +137,7 @@ a {
 footer {
     position: fixed;
     bottom: 0;
-    margin-bottom: 72px;
+    margin-bottom: 64px;
     display: flex;
     justify-content: center;
     align-items: center;
